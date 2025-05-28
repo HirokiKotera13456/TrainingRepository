@@ -1,2 +1,1 @@
-# TrainingRepository
-研修用リポジトリ
+研修生育成用リポジトリ
